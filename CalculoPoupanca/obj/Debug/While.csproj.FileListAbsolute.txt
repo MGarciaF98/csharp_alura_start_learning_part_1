@@ -1,0 +1,8 @@
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\bin\Debug\CalculoPoupanca.exe.config
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\bin\Debug\CalculoPoupanca.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\bin\Debug\CalculoPoupanca.pdb
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\obj\Debug\While.csproj.AssemblyReference.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\obj\Debug\While.csproj.CoreCompileInputs.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\obj\Debug\CalculoPoupanca.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\CalculoPoupanca\obj\Debug\CalculoPoupanca.pdb

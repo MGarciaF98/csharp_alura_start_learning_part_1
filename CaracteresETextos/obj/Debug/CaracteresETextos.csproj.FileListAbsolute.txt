@@ -1,0 +1,8 @@
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\bin\Debug\CaracteresETextos.exe.config
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\bin\Debug\CaracteresETextos.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\bin\Debug\CaracteresETextos.pdb
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.AssemblyReference.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.pdb

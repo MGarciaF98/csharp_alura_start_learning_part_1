@@ -1,0 +1,8 @@
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\AprendendoCSharp\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb

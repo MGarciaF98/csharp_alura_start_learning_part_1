@@ -1,0 +1,8 @@
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\bin\Debug\Variáveis.exe.config
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\bin\Debug\Variáveis.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\bin\Debug\Variáveis.pdb
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\obj\Debug\Variáveis.csproj.AssemblyReference.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\obj\Debug\Variáveis.csproj.SuggestedBindingRedirects.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\obj\Debug\Variáveis.csproj.CoreCompileInputs.cache
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\obj\Debug\Variáveis.exe
+D:\MatheusProjects\cursos\AprendendoCSharp\Variáveis\obj\Debug\Variáveis.pdb
